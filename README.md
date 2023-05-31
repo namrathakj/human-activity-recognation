@@ -1,4 +1,4 @@
-# human-activity-recognatio              
+# human-activity-recognation              
 
 Recognizing human activities using machine learning using UCF101 dataset .
 dataset link:
